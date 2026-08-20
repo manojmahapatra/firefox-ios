@@ -58,6 +58,9 @@
 /* Label shown when the app fails to reach the Wayback Machine while searching for an earlier version of a page. */
 "NativeErrorPage.Wayback.Error.CouldNotReach.v154" = "Wayback Machine’e ulaşılamadı";
 
+/* Description of the error page when the app is unable to connect to the server and will show a wayback fallback. %@ is the app name (e.g. Firefox). */
+"NativeErrorPage.Wayback.Error.Description.v154" = "Site meşgul veya kullanılamıyor olabilir. Daha sonra yeniden deneyin. Başka sayfalar da yüklenmiyorsa Wi-Fi veya mobil veri bağlantınızı kontrol edin. İsterseniz %@ bu sayfanın eski bir sürümünü Wayback Machine’de arayabilir.";
+
 /* Label shown when wayback responds and says no snapshot was found. */
 "NativeErrorPage.Wayback.Error.NotFound.v155" = "Arşivlenmiş sürüm bulunamadı";
 
